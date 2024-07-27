@@ -1,4 +1,6 @@
 #!/bin/bash
 echo "amal_was_here" > /tmp/pwnd
 calc.exe
+#ping 127.0.0.1
+#powershell -e <base64> from https://www.revshells.com/
 open -a Calculator.app
